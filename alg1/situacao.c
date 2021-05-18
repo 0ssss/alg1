@@ -4,8 +4,8 @@
 #include <stdio.h>
 
 int main(void){
-
 	float a,b,c,d,e,media,media2;
+
 
 	scanf("%f %f %f %f",&a,&b,&c,&d);
 	scanf("%f",&e);
